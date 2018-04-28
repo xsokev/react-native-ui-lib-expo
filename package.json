@@ -23,7 +23,7 @@
     "lodash": "^4.17.4",
     "react": "16.0.0-beta.5",
     "react-native": "^0.49.5",
-    "react-native-keyboard-aware-scrollview": "^1.1.7",
+    "react-native-keyboard-aware-scrollview": "^2.0.0",
     "react-native-ui-lib": "^2.0.120",
     "react-navigation": "^1.0.0-beta.19"
   }
