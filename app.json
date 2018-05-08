@@ -1,5 +1,29 @@
 {
   "expo": {
-    "sdkVersion": "22.0.0"
+    "name": "react-native-ui-lib",
+    "description": "react-native-ui-lib",
+    "slug": "react-native-ui-lib",
+    "privacy": "public",
+    "sdkVersion": "26.0.0",
+    "version": "1.0.2",
+    "primaryColor": "#fff",
+    "updates":{
+      "checkAutomatically":"ON_ERROR_RECOVERY",
+      "fallbackToCacheTimeout":0
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "loadJSInBackgroundExperimental":true
+    },
+    "assetBundlePatterns": [
+      "assets/icons/**",
+      "assets/images/**"
+    ]
   }
 }
